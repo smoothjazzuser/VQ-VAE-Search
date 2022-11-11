@@ -1,6 +1,7 @@
 data/
 *.wav
 *.mp3
+*VQ_VAE*
 *.zip
 *.png
 # Byte-compiled / optimized / DLL files
